@@ -2,3 +2,14 @@
 /mcmc_results
 /data
 /results
+src/__pycache__/data_handling.cpython-311.pyc
+src/__pycache__/portfolio_calculations.cpython-311.pyc
+src/__pycache__/portfolio_evaluation.cpython-311.pyc
+src/__pycache__/portfolio_specs.cpython-311.pyc
+src/alpha_vantage/__pycache__/__init__.cpython-311.pyc
+src/alpha_vantage/__pycache__/alpha_vantage_data.cpython-311.pyc
+src/financial_modeling_prep/__pycache__/__init__.cpython-311.pyc
+src/financial_modeling_prep/__pycache__/financial_modeling_prep_data.cpython-311.pyc
+src/yahoo_finance/__pycache__/__init__.cpython-311.pyc
+src/yahoo_finance/__pycache__/yahoo_finance_data.cpython-311.pyc
+.txt.bak
