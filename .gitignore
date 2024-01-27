@@ -13,3 +13,4 @@ src/financial_modeling_prep/__pycache__/financial_modeling_prep_data.cpython-311
 src/yahoo_finance/__pycache__/__init__.cpython-311.pyc
 src/yahoo_finance/__pycache__/yahoo_finance_data.cpython-311.pyc
 .txt.bak
+local_test/__pycache__/tangency.cpython-311.pyc
